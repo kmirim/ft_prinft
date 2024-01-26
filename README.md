@@ -3,6 +3,7 @@
   <img loading="lazy" src="https://img.shields.io/static/v1?label=Status&message=concluded&color=7159c1&style=for-the-badge&logo=ghost"/>
 </p>
 <div aling="center">
+  
   A partial reimplementation of the printf in C. Handles only the following conversions.
   
   | Conversion | Short Description                                                                             |
@@ -16,4 +17,5 @@
   | %x         | Print a number in hexadecimal (base 16), with lowercase.                                      |
   | %X         | Print a number in hexadecimal (base 16), with uppercase.                                      |
   | %%         | Print a percent sign.                                                                         |
+
 </div>
